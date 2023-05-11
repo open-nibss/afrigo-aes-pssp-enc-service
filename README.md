@@ -20,6 +20,8 @@ Kinldy follow instructions below to setup project
 <img width="360" alt="Screenshot 2023-05-11 at 12 45 04" src="https://github.com/open-nibss/afrigo-aes-pssp-enc-service/assets/57134967/18b22d5a-d391-4a03-baf8-b96f85c7a5a3">
 <img width="841" alt="Screenshot 2023-05-11 at 12 44 27" src="https://github.com/open-nibss/afrigo-aes-pssp-enc-service/assets/57134967/0c5a655b-696a-42dc-a5ec-82a68e1079ef">
 
+
 Requirments and Dependecies
-JDK 1.8
-IntelliJ
+
+1. JDK 1.8
+2. IntelliJ
